@@ -1,0 +1,11 @@
+{
+    "name": "sequelize-playground",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.17.3",
+        "hbs": "^4.2.0",
+        "mongoose": "^6.2.10",
+        "mysql2": "^2.3.3",
+        "sequelize": "^6.18.0"
+    }
+}
